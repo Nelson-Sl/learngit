@@ -1,0 +1,1 @@
+Test restore deleted file in git.
